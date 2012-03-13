@@ -1,0 +1,8 @@
+#DK order
+http://hastebin.com/ridakeside.txt
+
+#VideoOverlaySheild
+http://wiki.lowvoltagelabs.com/VideoOverlayShield
+
+#Video Experimenter Shield
+http://nootropicdesign.com/ve/
