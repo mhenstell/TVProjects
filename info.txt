@@ -6,3 +6,6 @@ http://wiki.lowvoltagelabs.com/VideoOverlayShield
 
 #Video Experimenter Shield
 http://nootropicdesign.com/ve/
+
+#Weird TV radio project
+http://freegeekvancouver.blogspot.com/2012/02/dymaxion-auto-matic-buckminster-fuller.html
